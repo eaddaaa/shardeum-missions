@@ -1,4 +1,4 @@
-Solidity code for the MultiSigWallet contract:
+# Solidity code for the MultiSigWallet contract:
 
 pragma solidity ^0.8.0;
 
@@ -64,7 +64,7 @@ contract MultiSigWallet {
     }
 }
 
-Solidity code for the MultiSigWalletFactory contract:
+# Solidity code for the MultiSigWalletFactory contract:
 
 pragma solidity ^0.8.0;
 
